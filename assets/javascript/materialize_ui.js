@@ -45,11 +45,12 @@ $(function () {
       "Valentine's Day": null,
       "Wedding": null,
       "Birthday": null,
-      "Election": null,
+      "Graduation": null,
       "Tax Day": null,
       "Retirement": null,
       "Party": null,
       "Promotion": null,
+      "Anniversary": null,
     }
   });
 
